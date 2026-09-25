@@ -1,0 +1,1 @@
+function i(){console.log("Initializing error page..."),o(),n()}function o(){let t=document.querySelector(".retry-button");t&&t.addEventListener("click",()=>{window.location.reload()})}function n(){let t=document.querySelector(".home-button");t&&t.addEventListener("click",e=>{e.preventDefault(),window.location.hash="#home"})}export{i as initializeErrorPage};

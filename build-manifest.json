@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-09-25T00:39:27.207Z",
+  "site": {
+    "siteUrl": "https://www.arguskepheus.com.br",
+    "basePath": "/",
+    "defaultLocale": "pt",
+    "supportedLocales": [
+      "pt"
+    ]
+  },
+  "assets": {
+    "css": "assets/style-RNMQGKUJ.css",
+    "componentLoader": "assets/app-AHIV7DQA.js",
+    "js": "assets/app-DAOIRHNA.js"
+  },
+  "locales": {
+    "pt": "pt.3a1256b80c.json"
+  },
+  "copied": {
+    "sourceDirectories": [
+      "components",
+      "palettes",
+      "images",
+      "locales"
+    ],
+    "publicDirectory": "public"
+  }
+}

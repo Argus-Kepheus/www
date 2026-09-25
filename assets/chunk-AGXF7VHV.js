@@ -1,0 +1,1 @@
+import{d as e}from"./chunk-D2XV4R5X.js";function a(n){let o=n.split("."),t=e();for(let r of o)if(t&&t[r]!==void 0)t=t[r];else return[];return Array.isArray(t)?t:[]}async function i(){return a("catalogo.items")}export{i as a};
