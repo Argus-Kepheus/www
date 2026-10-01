@@ -1,0 +1,259 @@
+{
+  "site": {
+    "title": "Argus Kepheus — издательство",
+    "description": "Editora Argus Kepheus: техническая литература и издания по многим областям знаний.",
+    "ogTitle": "Argus Kepheus — издательство",
+    "ogDescription": "Познакомьтесь с издательством Editora Argus Kepheus и его каталогом."
+  },
+  "ui": {
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "componentLoadError": "Ошибка загрузки компонента.",
+    "backToHome": "Вернуться на главную страницу",
+    "retry": "Повторить попытку",
+    "close": "Закрыть",
+    "success": "Успешно"
+  },
+  "nav": {
+    "home": "Главная",
+    "catalogo": "Каталог",
+    "projetos": "Проекты",
+    "sobre": "О нас",
+    "contato": "Контакты"
+  },
+  "home": {
+    "pageTitle": "Главная",
+    "kicker": "Техническое и учебное издательство",
+    "title": "Argus Kepheus",
+    "subtitle": "Технические и учебные книги, упорядоченные по областям знаний и тщательно документированные.",
+    "intro": "Издательство Editora Argus Kepheus выпускает техническую и учебную литературу; его растущий каталог упорядочен по областям знаний. Наша первая книга уже доступна, ещё несколько находятся в работе.",
+    "cta": {
+      "catalogo": "Смотреть каталог",
+      "contato": "Связаться с нами"
+    },
+    "bookCaption": "Первая изданная книга · 2026",
+    "highlights": {
+      "title": "Издательская линия",
+      "item1": {
+        "title": "Техническая литература",
+        "description": "Технические и учебные книги с акцентом на основы, расчёты и строгую документацию."
+      },
+      "item2": {
+        "title": "Многопрофильность",
+        "description": "Каталог, упорядоченный по областям: техника, общие основы, социальные науки, богословие и естественные науки."
+      },
+      "item3": {
+        "title": "Развитие",
+        "description": "Каталог постоянно растёт: новые книги находятся в работе."
+      }
+    },
+    "featured": {
+      "kicker": "Первая книга",
+      "cta": "Смотреть в каталоге"
+    },
+    "description": "Editora Argus Kepheus: о нас, каталог и контакты.",
+    "upcoming": {
+      "kicker": "В подготовке",
+      "title": "Следующая книга",
+      "cta": "Весь каталог"
+    }
+  },
+  "catalogo": {
+    "pageTitle": "Каталог",
+    "title": "Каталог",
+    "intro": "Изданные и готовящиеся книги издательства Editora Argus Kepheus, упорядоченные по областям.",
+    "empty": "Изданных книг пока нет.",
+    "description": "Каталог книг, изданных Editora Argus Kepheus.",
+    "items": [
+      {
+        "id": "tech-0001",
+        "area": "tech",
+        "status": "published",
+        "title": "Projeto elétrico industrial básico",
+        "subtitle": "Fundamentos, dimensionamento e documentação técnica",
+        "series": "Compêndio técnico para formação profissional",
+        "authors": "Sergio Cordero Calvimontes",
+        "publisher": "Angra dos Reis: Editora Argus Kepheus",
+        "year": "2026",
+        "edition": "1-е издание",
+        "isbn": "978-65-976344-0-8",
+        "format": "Электронный",
+        "pages": "174",
+        "language": "Португальский",
+        "subjects": "Электротехника · Электропроектирование · Промышленные электроустановки",
+        "cover": "images/catalogo/projeto-eletrico-industrial-basico-1ed.webp",
+        "coverAlt": "Обложка книги «Projeto elétrico industrial básico», автор Sergio Cordero Calvimontes",
+        "abstract": "Учебное пособие для подготовки специалистов в области электротехники и электроники, посвящённое проектированию промышленных электроустановок низкого напряжения: сбору нагрузок и составлению таблиц нагрузок, расчёту электрических нагрузок, выбору проводников и аппаратов защиты, однолинейным и трёхлинейным схемам и технической документации. Предназначено для студентов технических специальностей, преподавателей и специалистов, проходящих обучение.",
+        "links": [
+          {
+            "label": "Zenodo",
+            "url": "https://zenodo.org/records/20804262"
+          },
+          {
+            "label": "Internet Archive",
+            "url": "https://archive.org/details/calvimontes-s.-c.-projeto-eletrico-fundamentos-dimensionamento-e-documentacao-tecnica-2026-1ed-182p"
+          },
+          {
+            "label": "Academia.edu",
+            "url": "https://www.academia.edu/169042224/Projeto_el%C3%A9trico_industrial_b%C3%A1sico"
+          }
+        ],
+        "nextEdition": "Готовится 2-е издание"
+      },
+      {
+        "id": "tech-0020",
+        "area": "tech",
+        "status": "development",
+        "title": "Gateways",
+        "subtitle": "Coleta, processamento e transmissão de dados",
+        "series": "Compêndio técnico para formação profissional",
+        "authors": "Sergio Cordero Calvimontes",
+        "subjects": "Промышленная автоматизация · Граничные вычисления · Интернет вещей (IoT) · Сети связи",
+        "note": "Многоязычное издание: каждый язык выйдет отдельным изданием со своим ISBN. Первое издание, на португальском языке, находится в подготовке.",
+        "abstract": "«Gateways: Coleta, processamento e transmissão de dados» даёт всесторонний обзор центрального звена современных сетей автоматизации. Книга практично и подробно рассматривает всё — от аппаратной архитектуры до интеграции основных промышленных протоколов, таких как Modbus, MQTT и OPC UA. Её цель — научить инженеров по автоматизации, разработчиков IoT и системных архитекторов проектировать, настраивать и обслуживать физические и логические шлюзы в промышленных средах, интеллектуальных энергосетях и клинической телеметрии с применением стратегий конвергенции данных, безопасности и оркестрации граничных вычислений.",
+        "cover": "images/catalogo/gateways-1ed-capa.webp",
+        "coverAlt": "Обложка книги «Gateways: coleta, processamento e transmissão de dados», автор Sergio Cordero Calvimontes",
+        "backCover": "images/catalogo/gateways-1ed-contracapa.webp",
+        "backCoverAlt": "Задняя обложка книги «Gateways» с аннотацией и основными темами"
+      }
+    ],
+    "labels": {
+      "author": "Автор",
+      "edition": "Издание",
+      "year": "Год",
+      "isbn": "ISBN",
+      "format": "Формат",
+      "pages": "Страницы",
+      "language": "Язык",
+      "subjects": "Темы",
+      "links": "Доступно на",
+      "forecast": "Ожидается",
+      "area": "Область",
+      "nextEdition": "Следующее издание"
+    },
+    "filterLabel": "Фильтр по области",
+    "allAreas": "Все области",
+    "sections": {
+      "published": "Изданные",
+      "development": "В подготовке"
+    },
+    "status": {
+      "published": "Издана",
+      "development": "В подготовке"
+    },
+    "placeholderNote": "Предварительный просмотр: данные предварительные и могут измениться.",
+    "details": "Подробнее",
+    "noResults": "В этой области пока нет книг."
+  },
+  "projetos": {
+    "pageTitle": "Проекты",
+    "title": "Проекты",
+    "kicker": "В разработке",
+    "intro": "Этот раздел находится в разработке.",
+    "noticeTitle": "Скоро",
+    "noticeText": "Скоро на этой странице будут представлены проекты издательства Editora Argus Kepheus. А пока познакомьтесь с каталогом.",
+    "cta": "Смотреть каталог",
+    "description": "Проекты издательства Editora Argus Kepheus (раздел в разработке)."
+  },
+  "sobre": {
+    "pageTitle": "О нас",
+    "title": "Argus Kepheus",
+    "intro": "Argus Kepheus — издательство, посвящённое технической и учебной литературе. Его каталог охватывает пять областей: от технической строгости инженерии до изучения языка и богословия.",
+    "description": "Об издательстве Editora Argus Kepheus и его издательских направлениях.",
+    "kicker": "Об издательстве",
+    "areasTitle": "Издательские направления",
+    "areaCount": "Книг: {{count}}",
+    "areaCountOne": "1 книга",
+    "areaCountNone": "Скоро"
+  },
+  "contato": {
+    "pageTitle": "Контакты",
+    "title": "Связаться с издательством",
+    "intro": "По вопросам, издательским предложениям, институциональному сотрудничеству и другим темам пишите на адрес электронной почты ниже.",
+    "unavailable": "Контактная информация издательства скоро появится здесь.",
+    "email": "contato@arguskepheus.com.br",
+    "labels": {
+      "email": "Эл. почта"
+    },
+    "description": "Контакты издательства Editora Argus Kepheus.",
+    "kicker": "Контакты"
+  },
+  "footer": {
+    "tagline": "Техническая и учебная литература.",
+    "copyright": "© 2026 Editora Argus Kepheus — Все права защищены.",
+    "location": "Ангра-дус-Рейс, штат Рио-де-Жанейро, Бразилия."
+  },
+  "error": {
+    "pageTitle": "Ошибка",
+    "notFound": {
+      "title": "Страница не найдена",
+      "message": "Страница, которую вы ищете, не существует или была перемещена.",
+      "backButton": "Вернуться на главную страницу"
+    },
+    "generic": {
+      "title": "Произошла ошибка",
+      "message": "Извините, при загрузке содержимого произошла ошибка. Пожалуйста, попробуйте снова.",
+      "backButton": "Вернуться на главную страницу"
+    },
+    "connection": {
+      "title": "Ошибка соединения",
+      "message": "Не удалось подключиться к серверу. Проверьте подключение к интернету.",
+      "retryButton": "Повторить попытку"
+    },
+    "appInitFailed": "Ошибка инициализации приложения. Пожалуйста, перезагрузите страницу.",
+    "langChangeFailed": "Ошибка смены языка. Пожалуйста, попробуйте снова.",
+    "pageLoadFailed": "Ошибка загрузки страницы. Пожалуйста, попробуйте снова.",
+    "description": "Страница ошибки, отображаемая, когда содержимое не может быть загружено или запрошенный маршрут недоступен."
+  },
+  "aria": {
+    "languageSelector": "Выбрать язык",
+    "menuToggle": "Переключить меню навигации",
+    "closeMenu": "Закрыть меню",
+    "navigation": "Основная навигация",
+    "skipToContent": "Перейти к содержимому",
+    "backToTop": "Вернуться в начало страницы",
+    "openMenu": "Открыть меню",
+    "paletteSelector": "Выбрать цветовую палитру",
+    "paletteSelectorWithCurrent": "Выбрать цветовую палитру: {{palette}}",
+    "brandHome": "Editora Argus Kepheus — главная страница",
+    "footerNavigation": "Навигация в подвале сайта"
+  },
+  "buttons": {
+    "backToTop": "Наверх"
+  },
+  "palettes": {
+    "system": "Системная",
+    "editora": "Editora",
+    "editoraDark": "Editora тёмная",
+    "classic": "Классическая",
+    "alternative": "Альтернативная",
+    "editorial": "Редакционная",
+    "blueprint": "Чертёжная",
+    "classicDark": "Классическая тёмная",
+    "alternativeDark": "Альтернативная тёмная",
+    "editorialDark": "Редакционная тёмная",
+    "blueprintDark": "Чертёжная тёмная"
+  },
+  "areas": {
+    "tech": {
+      "title": "Техника и инженерия",
+      "description": "Электротехника, измерительная техника, автоматизация, управление, вычислительная техника и прикладная физика."
+    },
+    "root": {
+      "title": "Основы точных наук",
+      "description": "Математика и физика как общая база для остальных областей."
+    },
+    "socl": {
+      "title": "Язык и гуманитарные науки",
+      "description": "Португальский язык, лингвистика и методология научной работы."
+    },
+    "theo": {
+      "title": "Богословие и библеистика",
+      "description": "Изучение библейского текста и богословской традиции."
+    },
+    "natr": {
+      "title": "Естественные науки",
+      "description": "Науки о природе. Направление в стадии планирования."
+    }
+  }
+}

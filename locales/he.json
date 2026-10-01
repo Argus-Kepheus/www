@@ -1,0 +1,259 @@
+{
+  "site": {
+    "title": "Argus Kepheus — הוצאה לאור",
+    "description": "הוצאת Argus Kepheus: ספרות טכנית ופרסומים במגוון תחומים.",
+    "ogTitle": "Argus Kepheus — הוצאה לאור",
+    "ogDescription": "הכירו את הוצאת Argus Kepheus ואת הקטלוג שלה."
+  },
+  "ui": {
+    "loading": "טוען...",
+    "error": "שגיאה",
+    "componentLoadError": "שגיאה בטעינת הרכיב.",
+    "backToHome": "חזרה לדף הבית",
+    "retry": "נסה שוב",
+    "close": "סגור",
+    "success": "הצלחה"
+  },
+  "nav": {
+    "home": "דף הבית",
+    "catalogo": "קטלוג",
+    "projetos": "פרויקטים",
+    "sobre": "אודות",
+    "contato": "צור קשר"
+  },
+  "home": {
+    "pageTitle": "דף הבית",
+    "kicker": "הוצאה לאור טכנית וחינוכית",
+    "title": "Argus Kepheus",
+    "subtitle": "ספרים טכניים וחינוכיים, מאורגנים לפי תחומי ידע ומתועדים בקפדנות.",
+    "intro": "הוצאת Argus Kepheus מפרסמת ספרות טכנית וחינוכית, עם קטלוג מתרחב המאורגן לפי תחומי ידע. הכותר הראשון שלנו כבר זמין, וכמה כותרים נוספים נמצאים בפיתוח.",
+    "cta": {
+      "catalogo": "לקטלוג",
+      "contato": "צרו קשר"
+    },
+    "bookCaption": "הכותר הראשון שיצא לאור · 2026",
+    "highlights": {
+      "title": "קו עריכה",
+      "item1": {
+        "title": "ספרות טכנית",
+        "description": "ספרים טכניים וחינוכיים המתמקדים ביסודות, בחישובי תכנון ובתיעוד קפדני."
+      },
+      "item2": {
+        "title": "רב־תחומי",
+        "description": "קטלוג המאורגן לפי תחומים: טכנולוגיה, יסודות משותפים, מדעי החברה, תאולוגיה ומדעי הטבע."
+      },
+      "item3": {
+        "title": "בהתרחבות",
+        "description": "קטלוג בצמיחה מתמדת, עם כותרים חדשים בפיתוח."
+      }
+    },
+    "featured": {
+      "kicker": "הכותר הראשון",
+      "cta": "לצפייה בקטלוג"
+    },
+    "description": "הוצאת Argus Kepheus: היכרות, קטלוג ויצירת קשר.",
+    "upcoming": {
+      "kicker": "בהכנה",
+      "title": "הכותר הבא",
+      "cta": "לקטלוג המלא"
+    }
+  },
+  "catalogo": {
+    "pageTitle": "קטלוג",
+    "title": "קטלוג",
+    "intro": "כותרים שיצאו לאור ושנמצאים בהכנה בהוצאת Argus Kepheus, מאורגנים לפי תחום.",
+    "empty": "אין כרגע כותרים שיצאו לאור.",
+    "description": "קטלוג הספרים שיצאו לאור בהוצאת Argus Kepheus.",
+    "items": [
+      {
+        "id": "tech-0001",
+        "area": "tech",
+        "status": "published",
+        "title": "Projeto elétrico industrial básico",
+        "subtitle": "Fundamentos, dimensionamento e documentação técnica",
+        "series": "Compêndio técnico para formação profissional",
+        "authors": "Sergio Cordero Calvimontes",
+        "publisher": "Angra dos Reis: Editora Argus Kepheus",
+        "year": "2026",
+        "edition": "מהדורה ראשונה",
+        "isbn": "978-65-976344-0-8",
+        "format": "דיגיטלי",
+        "pages": "174",
+        "language": "פורטוגזית",
+        "subjects": "הנדסת חשמל · תכנון חשמלי · מתקנים תעשייתיים",
+        "cover": "images/catalogo/projeto-eletrico-industrial-basico-1ed.webp",
+        "coverAlt": "כריכת הספר ⁦Projeto elétrico industrial básico⁩ מאת ⁦Sergio Cordero Calvimontes⁩",
+        "abstract": "ספר לימוד להכשרה בתחום החשמל והאלקטרוניקה, המתמקד בתכנון מתקני חשמל תעשייתיים במתח נמוך: סקר עומסים וטבלאות עומסים, חישוב ביקוש, בחירת מוליכים והתקני הגנה, תרשימים חד־קוויים ותלת־קוויים ותיעוד טכני. מיועד לתלמידי מגמות טכניות, למורים ולאנשי מקצוע בהכשרה.",
+        "links": [
+          {
+            "label": "Zenodo",
+            "url": "https://zenodo.org/records/20804262"
+          },
+          {
+            "label": "Internet Archive",
+            "url": "https://archive.org/details/calvimontes-s.-c.-projeto-eletrico-fundamentos-dimensionamento-e-documentacao-tecnica-2026-1ed-182p"
+          },
+          {
+            "label": "Academia.edu",
+            "url": "https://www.academia.edu/169042224/Projeto_el%C3%A9trico_industrial_b%C3%A1sico"
+          }
+        ],
+        "nextEdition": "מהדורה שנייה בהכנה"
+      },
+      {
+        "id": "tech-0020",
+        "area": "tech",
+        "status": "development",
+        "title": "Gateways",
+        "subtitle": "Coleta, processamento e transmissão de dados",
+        "series": "Compêndio técnico para formação profissional",
+        "authors": "Sergio Cordero Calvimontes",
+        "subjects": "אוטומציה תעשייתית · מחשוב קצה · האינטרנט של הדברים (IoT) · רשתות תקשורת",
+        "note": "יצירה רב־לשונית: כל שפה תהיה מהדורה עצמאית עם מסת״ב משלה. המהדורה הראשונה, בפורטוגזית, נמצאת בהכנה.",
+        "abstract": "⁦«Gateways: Coleta, processamento e transmissão de dados»⁩ מציע מבט מקיף על החוליה המרכזית ברשתות האוטומציה המודרניות. הספר סוקר באופן מעשי ומפורט את כל הדרך מארכיטקטורת החומרה ועד לשילוב פרוטוקולים תעשייתיים יסודיים כמו Modbus, MQTT ו־OPC UA. מטרתו להכשיר מהנדסי אוטומציה, מפתחי IoT וארכיטקטי מערכות לתכנן, להגדיר ולתחזק שערים (gateways) פיזיים ולוגיים בסביבות תעשייתיות, ברשתות חשמל חכמות ובטלמטריה קלינית, תוך שילוב אסטרטגיות של התכנסות נתונים, אבטחה ותזמור מחשוב קצה.",
+        "cover": "images/catalogo/gateways-1ed-capa.webp",
+        "coverAlt": "כריכת הספר ⁦Gateways: coleta, processamento e transmissão de dados⁩ מאת ⁦Sergio Cordero Calvimontes⁩",
+        "backCover": "images/catalogo/gateways-1ed-contracapa.webp",
+        "backCoverAlt": "הכריכה האחורית של הספר ⁦Gateways⁩, עם תקציר הספר והנושאים העיקריים"
+      }
+    ],
+    "labels": {
+      "author": "מחבר",
+      "edition": "מהדורה",
+      "year": "שנה",
+      "isbn": "ISBN",
+      "format": "פורמט",
+      "pages": "עמודים",
+      "language": "שפה",
+      "subjects": "נושאים",
+      "links": "זמין ב־",
+      "forecast": "צפי",
+      "area": "תחום",
+      "nextEdition": "המהדורה הבאה"
+    },
+    "filterLabel": "סינון לפי תחום",
+    "allAreas": "כל התחומים",
+    "sections": {
+      "published": "יצאו לאור",
+      "development": "בהכנה"
+    },
+    "status": {
+      "published": "יצא לאור",
+      "development": "בהכנה"
+    },
+    "placeholderNote": "תצוגה מקדימה: נתונים זמניים, עשויים להשתנות.",
+    "details": "פרטים נוספים",
+    "noResults": "אין עדיין כותרים בתחום זה."
+  },
+  "projetos": {
+    "pageTitle": "פרויקטים",
+    "title": "פרויקטים",
+    "kicker": "בבנייה",
+    "intro": "מדור זה נמצא בבנייה.",
+    "noticeTitle": "בקרוב",
+    "noticeText": "בקרוב יוצגו בדף זה הפרויקטים של הוצאת Argus Kepheus. בינתיים, הכירו את הקטלוג.",
+    "cta": "לקטלוג",
+    "description": "הפרויקטים של הוצאת Argus Kepheus (מדור בבנייה)."
+  },
+  "sobre": {
+    "pageTitle": "אודות",
+    "title": "Argus Kepheus",
+    "intro": "Argus Kepheus היא הוצאה לאור המוקדשת לספרות טכנית וחינוכית. הקטלוג שלה מאורגן בחמישה תחומים, מהקפדנות הטכנית של ההנדסה ועד לחקר השפה והתאולוגיה.",
+    "description": "אודות הוצאת Argus Kepheus ותחומי העריכה שלה.",
+    "kicker": "אודות ההוצאה",
+    "areasTitle": "תחומי עריכה",
+    "areaCount": "{{count}} כותרים",
+    "areaCountOne": "כותר אחד",
+    "areaCountNone": "בקרוב"
+  },
+  "contato": {
+    "pageTitle": "צור קשר",
+    "title": "צרו קשר עם ההוצאה",
+    "intro": "לשאלות, להצעות לפרסום, לשותפויות מוסדיות או לכל עניין אחר, כתבו לכתובת הדוא״ל שלהלן.",
+    "unavailable": "דרכי יצירת הקשר עם ההוצאה לאור יפורסמו כאן בקרוב.",
+    "email": "contato@arguskepheus.com.br",
+    "labels": {
+      "email": "דוא״ל"
+    },
+    "description": "יצירת קשר מוסדי עם הוצאת Argus Kepheus.",
+    "kicker": "צור קשר"
+  },
+  "footer": {
+    "tagline": "ספרות טכנית וחינוכית.",
+    "copyright": "© 2026 ⁦Editora Argus Kepheus⁩ — כל הזכויות שמורות.",
+    "location": "אנגרה דוס רייס, ריו דה ז׳ניירו, ברזיל."
+  },
+  "error": {
+    "pageTitle": "שגיאה",
+    "notFound": {
+      "title": "הדף לא נמצא",
+      "message": "הדף שאתה מחפש אינו קיים או הועבר.",
+      "backButton": "חזרה לדף הבית"
+    },
+    "generic": {
+      "title": "אירעה שגיאה",
+      "message": "מצטערים, אירעה שגיאה בטעינת התוכן. אנא נסה שוב.",
+      "backButton": "חזרה לדף הבית"
+    },
+    "connection": {
+      "title": "שגיאת חיבור",
+      "message": "לא ניתן להתחבר לשרת. אנא בדוק את חיבור האינטרנט שלך.",
+      "retryButton": "נסה שוב"
+    },
+    "appInitFailed": "שגיאה באתחול היישום. אנא רענן את הדף.",
+    "langChangeFailed": "שגיאה בשינוי השפה. אנא נסה שוב.",
+    "pageLoadFailed": "שגיאה בטעינת הדף. אנא נסה שוב.",
+    "description": "דף שגיאה המוצג כאשר לא ניתן לטעון תוכן או כאשר הנתיב המבוקש אינו זמין."
+  },
+  "aria": {
+    "languageSelector": "בחר שפה",
+    "menuToggle": "החלף תפריט ניווט",
+    "closeMenu": "סגור תפריט",
+    "navigation": "ניווט ראשי",
+    "skipToContent": "דלג לתוכן",
+    "backToTop": "חזור לראש הדף",
+    "openMenu": "פתח תפריט",
+    "paletteSelector": "בחר פלטת צבעים",
+    "paletteSelectorWithCurrent": "בחר פלטת צבעים: {{palette}}",
+    "brandHome": "הוצאת Argus Kepheus — דף הבית",
+    "footerNavigation": "ניווט בכותרת התחתונה"
+  },
+  "buttons": {
+    "backToTop": "חזרה למעלה"
+  },
+  "palettes": {
+    "system": "מערכת",
+    "editora": "Editora",
+    "editoraDark": "Editora כהה",
+    "classic": "קלאסית",
+    "alternative": "חלופית",
+    "editorial": "עריכתית",
+    "blueprint": "בלופרינט",
+    "classicDark": "קלאסית כהה",
+    "alternativeDark": "חלופית כהה",
+    "editorialDark": "עריכתית כהה",
+    "blueprintDark": "בלופרינט כהה"
+  },
+  "areas": {
+    "tech": {
+      "title": "טכנולוגיה והנדסה",
+      "description": "הנדסת חשמל, מכשור, אוטומציה, בקרה, מחשוב ופיזיקה שימושית."
+    },
+    "root": {
+      "title": "יסודות המדעים המדויקים",
+      "description": "מתמטיקה ופיזיקה כבסיס משותף לשאר התחומים."
+    },
+    "socl": {
+      "title": "שפה ומדעי הרוח",
+      "description": "השפה הפורטוגזית, בלשנות ומתודולוגיה אקדמית."
+    },
+    "theo": {
+      "title": "תאולוגיה ולימודי מקרא",
+      "description": "חקר הטקסט המקראי והמסורת התאולוגית."
+    },
+    "natr": {
+      "title": "מדעי הטבע",
+      "description": "מדעי הטבע. תחום בתכנון."
+    }
+  }
+}

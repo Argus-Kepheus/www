@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-25T00:39:27.205Z",
+  "generatedAt": "2026-10-01T23:34:16.032Z",
   "files": {
-    "pt": "pt.3a1256b80c.json"
+    "en": "en.64e96452eb.json",
+    "es": "es.f5f057e778.json",
+    "he": "he.d26f5b4e71.json",
+    "ja": "ja.5ca18b5324.json",
+    "ko": "ko.ead0160205.json",
+    "nl": "nl.a50a908299.json",
+    "pt": "pt.d74a7ffa93.json",
+    "ru": "ru.25b2de8dda.json",
+    "sv": "sv.629b1ae233.json"
   }
 }

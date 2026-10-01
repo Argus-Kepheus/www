@@ -1,0 +1,259 @@
+{
+  "site": {
+    "title": "Argus Kepheus — Editorial",
+    "description": "Editora Argus Kepheus: literatura técnica y publicaciones en muchas áreas.",
+    "ogTitle": "Argus Kepheus — Editorial",
+    "ogDescription": "Conozca la Editora Argus Kepheus y su catálogo."
+  },
+  "ui": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "componentLoadError": "Error al cargar el componente.",
+    "backToHome": "Volver a la página principal",
+    "retry": "Intentar nuevamente",
+    "close": "Cerrar",
+    "success": "Éxito"
+  },
+  "nav": {
+    "home": "Inicio",
+    "catalogo": "Catálogo",
+    "projetos": "Proyectos",
+    "sobre": "Acerca de",
+    "contato": "Contacto"
+  },
+  "home": {
+    "pageTitle": "Inicio",
+    "kicker": "Editorial técnica y educativa",
+    "title": "Argus Kepheus",
+    "subtitle": "Libros técnicos y educativos, organizados por área de conocimiento y documentados con rigor.",
+    "intro": "La Editora Argus Kepheus publica literatura técnica y educativa, con un catálogo en expansión organizado por área de conocimiento. Nuestro primer título ya está disponible; varios otros están en desarrollo.",
+    "cta": {
+      "catalogo": "Ver catálogo",
+      "contato": "Contáctenos"
+    },
+    "bookCaption": "Primer título publicado · 2026",
+    "highlights": {
+      "title": "Línea editorial",
+      "item1": {
+        "title": "Literatura técnica",
+        "description": "Libros técnicos y educativos, centrados en fundamentos, dimensionamiento y documentación rigurosa."
+      },
+      "item2": {
+        "title": "Multidisciplinaria",
+        "description": "Catálogo organizado por área: tecnología, fundamentos transversales, ciencias sociales, teología y ciencias naturales."
+      },
+      "item3": {
+        "title": "En expansión",
+        "description": "Catálogo en crecimiento continuo, con nuevos títulos en desarrollo."
+      }
+    },
+    "featured": {
+      "kicker": "Primer título",
+      "cta": "Ver en el catálogo"
+    },
+    "description": "Editora Argus Kepheus: presentación, catálogo y contacto.",
+    "upcoming": {
+      "kicker": "En preparación",
+      "title": "Próximo título",
+      "cta": "Ver el catálogo completo"
+    }
+  },
+  "catalogo": {
+    "pageTitle": "Catálogo",
+    "title": "Catálogo",
+    "intro": "Títulos publicados y en preparación por la Editora Argus Kepheus, organizados por área.",
+    "empty": "No hay títulos publicados por el momento.",
+    "description": "Catálogo de libros publicados por la Editora Argus Kepheus.",
+    "items": [
+      {
+        "id": "tech-0001",
+        "area": "tech",
+        "status": "published",
+        "title": "Projeto elétrico industrial básico",
+        "subtitle": "Fundamentos, dimensionamento e documentação técnica",
+        "series": "Compêndio técnico para formação profissional",
+        "authors": "Sergio Cordero Calvimontes",
+        "publisher": "Angra dos Reis: Editora Argus Kepheus",
+        "year": "2026",
+        "edition": "1.ª edición",
+        "isbn": "978-65-976344-0-8",
+        "format": "Digital",
+        "pages": "174",
+        "language": "Portugués",
+        "subjects": "Electrotecnia · Proyecto eléctrico · Instalaciones industriales",
+        "cover": "images/catalogo/projeto-eletrico-industrial-basico-1ed.webp",
+        "coverAlt": "Portada del libro Projeto elétrico industrial básico, de Sergio Cordero Calvimontes",
+        "abstract": "Obra didáctica orientada a la formación en electricidad y electrónica, centrada en la elaboración de proyectos eléctricos industriales de baja tensión: relevamiento y cuadros de cargas, cálculo de demanda, dimensionamiento de conductores y dispositivos de protección, diagramas unifilares y trifilares, y documentación técnica. Dirigida a estudiantes técnicos, docentes y profesionales en formación.",
+        "links": [
+          {
+            "label": "Zenodo",
+            "url": "https://zenodo.org/records/20804262"
+          },
+          {
+            "label": "Internet Archive",
+            "url": "https://archive.org/details/calvimontes-s.-c.-projeto-eletrico-fundamentos-dimensionamento-e-documentacao-tecnica-2026-1ed-182p"
+          },
+          {
+            "label": "Academia.edu",
+            "url": "https://www.academia.edu/169042224/Projeto_el%C3%A9trico_industrial_b%C3%A1sico"
+          }
+        ],
+        "nextEdition": "2.ª edición en preparación"
+      },
+      {
+        "id": "tech-0020",
+        "area": "tech",
+        "status": "development",
+        "title": "Gateways",
+        "subtitle": "Coleta, processamento e transmissão de dados",
+        "series": "Compêndio técnico para formação profissional",
+        "authors": "Sergio Cordero Calvimontes",
+        "subjects": "Automatización industrial · Edge computing · Internet de las cosas (IoT) · Redes de comunicación",
+        "note": "Obra multilingüe: cada idioma será una edición independiente, con ISBN propio. La primera edición, en portugués, está en preparación.",
+        "abstract": "«Gateways: Coleta, processamento e transmissão de dados» ofrece una visión integral del eslabón central de las redes de automatización modernas. La obra explora, de forma práctica y detallada, desde la arquitectura de hardware hasta la integración de protocolos industriales fundamentales, como Modbus, MQTT y OPC UA. Su objetivo es capacitar a ingenieros de automatización, desarrolladores de IoT y arquitectos de sistemas para diseñar, configurar y mantener gateways físicos y lógicos en entornos industriales, redes eléctricas inteligentes (smart grids) y telemetría clínica, incorporando estrategias de convergencia, seguridad y orquestación de edge computing.",
+        "cover": "images/catalogo/gateways-1ed-capa.webp",
+        "coverAlt": "Portada del libro Gateways: coleta, processamento e transmissão de dados, de Sergio Cordero Calvimontes",
+        "backCover": "images/catalogo/gateways-1ed-contracapa.webp",
+        "backCoverAlt": "Contraportada del libro Gateways, con el resumen de la obra y sus temas principales"
+      }
+    ],
+    "labels": {
+      "author": "Autor",
+      "edition": "Edición",
+      "year": "Año",
+      "isbn": "ISBN",
+      "format": "Formato",
+      "pages": "Páginas",
+      "language": "Idioma",
+      "subjects": "Temas",
+      "links": "Disponible en",
+      "forecast": "Previsión",
+      "area": "Área",
+      "nextEdition": "Próxima edición"
+    },
+    "filterLabel": "Filtrar por área",
+    "allAreas": "Todas las áreas",
+    "sections": {
+      "published": "Publicados",
+      "development": "En preparación"
+    },
+    "status": {
+      "published": "Publicado",
+      "development": "En preparación"
+    },
+    "placeholderNote": "Vista previa: datos provisionales, sujetos a cambios.",
+    "details": "Más detalles",
+    "noResults": "Todavía no hay títulos en esta área."
+  },
+  "projetos": {
+    "pageTitle": "Proyectos",
+    "title": "Proyectos",
+    "kicker": "En construcción",
+    "intro": "Esta sección está en construcción.",
+    "noticeTitle": "Próximamente",
+    "noticeText": "Pronto, esta página reunirá los proyectos de la Editora Argus Kepheus. Mientras tanto, conozca el catálogo.",
+    "cta": "Ver catálogo",
+    "description": "Proyectos de la Editora Argus Kepheus (sección en construcción)."
+  },
+  "sobre": {
+    "pageTitle": "Acerca de",
+    "title": "Argus Kepheus",
+    "intro": "Argus Kepheus es una editorial dedicada a la literatura técnica y educativa. Su catálogo se organiza en cinco áreas, del rigor técnico de la ingeniería a los estudios del lenguaje y la teología.",
+    "description": "Acerca de la Editora Argus Kepheus y sus áreas editoriales.",
+    "kicker": "Acerca de la editorial",
+    "areasTitle": "Áreas editoriales",
+    "areaCount": "{{count}} títulos",
+    "areaCountOne": "1 título",
+    "areaCountNone": "Próximamente"
+  },
+  "contato": {
+    "pageTitle": "Contacto",
+    "title": "Hable con la editorial",
+    "intro": "Para consultas, propuestas editoriales, alianzas institucionales u otros asuntos, escriba al correo electrónico de abajo.",
+    "unavailable": "Los canales de contacto de la editorial se anunciarán aquí próximamente.",
+    "email": "contato@arguskepheus.com.br",
+    "labels": {
+      "email": "Correo electrónico"
+    },
+    "description": "Contacto institucional de la Editora Argus Kepheus.",
+    "kicker": "Contacto"
+  },
+  "footer": {
+    "tagline": "Literatura técnica y educativa.",
+    "copyright": "© 2026 Editora Argus Kepheus — Todos los derechos reservados.",
+    "location": "Angra dos Reis, RJ, Brasil."
+  },
+  "error": {
+    "pageTitle": "Error",
+    "notFound": {
+      "title": "Página no encontrada",
+      "message": "La página que estás buscando no existe o ha sido movida.",
+      "backButton": "Volver a la página de inicio"
+    },
+    "generic": {
+      "title": "Ocurrió un error",
+      "message": "Lo sentimos, ocurrió un error al cargar el contenido. Por favor, inténtalo nuevamente.",
+      "backButton": "Volver a la página de inicio"
+    },
+    "connection": {
+      "title": "Error de conexión",
+      "message": "No se pudo conectar al servidor. Verifica tu conexión a internet.",
+      "retryButton": "Intentar nuevamente"
+    },
+    "appInitFailed": "Error al inicializar la aplicación. Por favor, recarga la página.",
+    "langChangeFailed": "Error al cambiar el idioma. Por favor, inténtalo nuevamente.",
+    "pageLoadFailed": "Error al cargar la página. Por favor, inténtalo nuevamente.",
+    "description": "Página de error mostrada cuando el contenido no puede cargarse o la ruta solicitada no está disponible."
+  },
+  "aria": {
+    "languageSelector": "Seleccionar idioma",
+    "menuToggle": "Alternar menú de navegación",
+    "closeMenu": "Cerrar menú",
+    "navigation": "Navegación principal",
+    "skipToContent": "Saltar al contenido",
+    "backToTop": "Volver al inicio de la página",
+    "openMenu": "Abrir menú",
+    "paletteSelector": "Seleccionar paleta de colores",
+    "paletteSelectorWithCurrent": "Seleccionar paleta de colores: {{palette}}",
+    "brandHome": "Editora Argus Kepheus — página de inicio",
+    "footerNavigation": "Navegación del pie de página"
+  },
+  "buttons": {
+    "backToTop": "Volver al Inicio"
+  },
+  "palettes": {
+    "system": "Sistema",
+    "editora": "Editora",
+    "editoraDark": "Editora oscura",
+    "classic": "Clásica",
+    "alternative": "Alternativa",
+    "editorial": "Editorial",
+    "blueprint": "Blueprint",
+    "classicDark": "Clásica oscura",
+    "alternativeDark": "Alternativa oscura",
+    "editorialDark": "Editorial oscura",
+    "blueprintDark": "Blueprint oscura"
+  },
+  "areas": {
+    "tech": {
+      "title": "Tecnología e ingeniería",
+      "description": "Electrotecnia, instrumentación, automatización, control, computación y física aplicada."
+    },
+    "root": {
+      "title": "Fundamentos de las ciencias exactas",
+      "description": "Matemática y física como base común para las demás áreas."
+    },
+    "socl": {
+      "title": "Lenguaje y humanidades",
+      "description": "Lengua portuguesa, lingüística y metodología académica."
+    },
+    "theo": {
+      "title": "Teología y estudios bíblicos",
+      "description": "Estudios del texto bíblico y de la tradición teológica."
+    },
+    "natr": {
+      "title": "Ciencias naturales",
+      "description": "Ciencias de la naturaleza. Área en planificación."
+    }
+  }
+}

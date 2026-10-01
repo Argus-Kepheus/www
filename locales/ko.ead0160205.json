@@ -1,0 +1,259 @@
+{
+  "site": {
+    "title": "Argus Kepheus — 출판사",
+    "description": "Editora Argus Kepheus: 여러 분야에 걸친 기술 도서와 출판물.",
+    "ogTitle": "Argus Kepheus — 출판사",
+    "ogDescription": "Editora Argus Kepheus와 출판 목록을 만나 보세요."
+  },
+  "ui": {
+    "loading": "불러오는 중...",
+    "error": "오류",
+    "componentLoadError": "구성 요소를 불러오는 중 오류가 발생했습니다.",
+    "backToHome": "홈으로 돌아가기",
+    "retry": "다시 시도",
+    "close": "닫기",
+    "success": "성공"
+  },
+  "nav": {
+    "home": "홈",
+    "catalogo": "출판 목록",
+    "projetos": "프로젝트",
+    "sobre": "소개",
+    "contato": "문의"
+  },
+  "home": {
+    "pageTitle": "홈",
+    "kicker": "기술·교육 전문 출판사",
+    "title": "Argus Kepheus",
+    "subtitle": "지식 분야별로 정리되고 엄밀하게 기술된 기술서와 교육서.",
+    "intro": "Editora Argus Kepheus는 지식 분야별로 정리된, 계속 확장되는 목록을 바탕으로 기술 및 교육 도서를 출판합니다. 첫 번째 도서가 이미 출간되었으며, 여러 도서가 준비 중입니다.",
+    "cta": {
+      "catalogo": "출판 목록 보기",
+      "contato": "문의하기"
+    },
+    "bookCaption": "첫 출간 도서 · 2026",
+    "highlights": {
+      "title": "편집 방향",
+      "item1": {
+        "title": "기술 도서",
+        "description": "기초, 설계 계산, 엄밀한 기술 문서화에 중점을 둔 기술서와 교육서."
+      },
+      "item2": {
+        "title": "다분야",
+        "description": "기술, 공통 기초, 사회과학, 신학, 자연과학 등 분야별로 정리된 목록."
+      },
+      "item3": {
+        "title": "확장 중",
+        "description": "새로운 도서를 준비하며 꾸준히 확장되는 목록."
+      }
+    },
+    "featured": {
+      "kicker": "첫 번째 도서",
+      "cta": "목록에서 보기"
+    },
+    "description": "Editora Argus Kepheus: 소개, 출판 목록, 문의.",
+    "upcoming": {
+      "kicker": "준비 중",
+      "title": "다음 도서",
+      "cta": "전체 목록 보기"
+    }
+  },
+  "catalogo": {
+    "pageTitle": "출판 목록",
+    "title": "출판 목록",
+    "intro": "Editora Argus Kepheus에서 출간되었거나 준비 중인 도서를 분야별로 소개합니다.",
+    "empty": "현재 출간된 도서가 없습니다.",
+    "description": "Editora Argus Kepheus에서 출간한 도서 목록.",
+    "items": [
+      {
+        "id": "tech-0001",
+        "area": "tech",
+        "status": "published",
+        "title": "Projeto elétrico industrial básico",
+        "subtitle": "Fundamentos, dimensionamento e documentação técnica",
+        "series": "Compêndio técnico para formação profissional",
+        "authors": "Sergio Cordero Calvimontes",
+        "publisher": "Angra dos Reis: Editora Argus Kepheus",
+        "year": "2026",
+        "edition": "초판",
+        "isbn": "978-65-976344-0-8",
+        "format": "디지털",
+        "pages": "174",
+        "language": "포르투갈어",
+        "subjects": "전기공학 · 전기 설계 · 산업용 설비",
+        "cover": "images/catalogo/projeto-eletrico-industrial-basico-1ed.webp",
+        "coverAlt": "Sergio Cordero Calvimontes 저 『Projeto elétrico industrial básico』 표지",
+        "abstract": "전기·전자 분야 교육을 위한 교재로, 저압 산업용 전기 설비 설계에 중점을 둡니다. 부하 조사와 부하표, 수요 계산, 도체 및 보호 장치 선정, 단선도와 3선도, 기술 문서 작성을 다룹니다. 기술 계열 학생, 교사, 교육 중인 실무자를 대상으로 합니다.",
+        "links": [
+          {
+            "label": "Zenodo",
+            "url": "https://zenodo.org/records/20804262"
+          },
+          {
+            "label": "Internet Archive",
+            "url": "https://archive.org/details/calvimontes-s.-c.-projeto-eletrico-fundamentos-dimensionamento-e-documentacao-tecnica-2026-1ed-182p"
+          },
+          {
+            "label": "Academia.edu",
+            "url": "https://www.academia.edu/169042224/Projeto_el%C3%A9trico_industrial_b%C3%A1sico"
+          }
+        ],
+        "nextEdition": "제2판 준비 중"
+      },
+      {
+        "id": "tech-0020",
+        "area": "tech",
+        "status": "development",
+        "title": "Gateways",
+        "subtitle": "Coleta, processamento e transmissão de dados",
+        "series": "Compêndio técnico para formação profissional",
+        "authors": "Sergio Cordero Calvimontes",
+        "subjects": "산업 자동화 · 엣지 컴퓨팅 · 사물인터넷(IoT) · 통신 네트워크",
+        "note": "다국어 저작입니다. 언어마다 고유한 ISBN을 가진 독립된 판으로 출간됩니다. 첫 번째 판인 포르투갈어판을 준비 중입니다.",
+        "abstract": "『Gateways: Coleta, processamento e transmissão de dados』는 현대 자동화 네트워크의 핵심 연결 고리를 포괄적으로 다룹니다. 하드웨어 아키텍처부터 Modbus, MQTT, OPC UA 같은 기본 산업용 프로토콜의 통합까지 실용적이고 자세하게 살펴봅니다. 자동화 엔지니어, IoT 개발자, 시스템 설계자가 산업 현장, 스마트 그리드, 임상 원격 측정 환경에서 물리적·논리적 게이트웨이를 설계하고 구성하며 유지 관리할 수 있도록 데이터 융합, 보안, 엣지 컴퓨팅 오케스트레이션 전략을 함께 제시합니다.",
+        "cover": "images/catalogo/gateways-1ed-capa.webp",
+        "coverAlt": "Sergio Cordero Calvimontes 저 『Gateways: coleta, processamento e transmissão de dados』 표지",
+        "backCover": "images/catalogo/gateways-1ed-contracapa.webp",
+        "backCoverAlt": "『Gateways』 뒤표지(책 소개와 주요 주제)"
+      }
+    ],
+    "labels": {
+      "author": "저자",
+      "edition": "판",
+      "year": "연도",
+      "isbn": "ISBN",
+      "format": "형식",
+      "pages": "쪽수",
+      "language": "언어",
+      "subjects": "주제",
+      "links": "제공처",
+      "forecast": "출간 예정",
+      "area": "분야",
+      "nextEdition": "다음 판"
+    },
+    "filterLabel": "분야별 보기",
+    "allAreas": "전체 분야",
+    "sections": {
+      "published": "출간",
+      "development": "준비 중"
+    },
+    "status": {
+      "published": "출간",
+      "development": "준비 중"
+    },
+    "placeholderNote": "미리 보기: 잠정 정보이며 변경될 수 있습니다.",
+    "details": "자세히 보기",
+    "noResults": "이 분야에는 아직 도서가 없습니다."
+  },
+  "projetos": {
+    "pageTitle": "프로젝트",
+    "title": "프로젝트",
+    "kicker": "작업 중",
+    "intro": "이 섹션은 현재 작업 중입니다.",
+    "noticeTitle": "곧 공개",
+    "noticeText": "이 페이지에서 곧 Editora Argus Kepheus의 프로젝트를 소개할 예정입니다. 그동안 출판 목록을 둘러보세요.",
+    "cta": "출판 목록 보기",
+    "description": "Editora Argus Kepheus의 프로젝트(작업 중인 섹션)."
+  },
+  "sobre": {
+    "pageTitle": "소개",
+    "title": "Argus Kepheus",
+    "intro": "Argus Kepheus는 기술 및 교육 도서를 전문으로 하는 출판사입니다. 목록은 공학의 기술적 엄밀함에서 언어와 신학 연구에 이르기까지 다섯 분야로 구성됩니다.",
+    "description": "Editora Argus Kepheus와 편집 분야 소개.",
+    "kicker": "출판사 소개",
+    "areasTitle": "편집 분야",
+    "areaCount": "{{count}}권",
+    "areaCountOne": "1권",
+    "areaCountNone": "곧 공개"
+  },
+  "contato": {
+    "pageTitle": "문의",
+    "title": "출판사에 문의하기",
+    "intro": "질문, 출판 제안, 기관 협력 및 기타 문의는 아래 이메일 주소로 보내 주십시오.",
+    "unavailable": "출판사에 문의할 수 있는 방법은 곧 이곳에 안내될 예정입니다.",
+    "email": "contato@arguskepheus.com.br",
+    "labels": {
+      "email": "이메일"
+    },
+    "description": "Editora Argus Kepheus 공식 연락처.",
+    "kicker": "문의"
+  },
+  "footer": {
+    "tagline": "기술 및 교육 도서.",
+    "copyright": "© 2026 Editora Argus Kepheus — 모든 권리 보유.",
+    "location": "브라질 리우데자네이루주 앙그라두스헤이스."
+  },
+  "error": {
+    "pageTitle": "오류",
+    "notFound": {
+      "title": "페이지를 찾을 수 없습니다",
+      "message": "찾으시는 페이지가 존재하지 않거나 이동되었습니다.",
+      "backButton": "홈으로 돌아가기"
+    },
+    "generic": {
+      "title": "오류가 발생했습니다",
+      "message": "죄송합니다. 콘텐츠를 불러오는 중 오류가 발생했습니다. 다시 시도해 주세요.",
+      "backButton": "홈으로 돌아가기"
+    },
+    "connection": {
+      "title": "연결 오류",
+      "message": "서버에 연결할 수 없습니다. 인터넷 연결을 확인해 주세요.",
+      "retryButton": "다시 시도"
+    },
+    "appInitFailed": "애플리케이션을 초기화하는 중 오류가 발생했습니다. 페이지를 새로고침해 주세요.",
+    "langChangeFailed": "언어를 변경하는 중 오류가 발생했습니다. 다시 시도해 주세요.",
+    "pageLoadFailed": "페이지를 불러오는 중 오류가 발생했습니다. 다시 시도해 주세요.",
+    "description": "콘텐츠를 불러올 수 없거나 요청한 경로를 사용할 수 없을 때 표시되는 오류 페이지입니다."
+  },
+  "aria": {
+    "languageSelector": "언어 선택",
+    "menuToggle": "내비게이션 메뉴 전환",
+    "closeMenu": "메뉴 닫기",
+    "navigation": "주 내비게이션",
+    "skipToContent": "본문으로 건너뛰기",
+    "backToTop": "페이지 상단으로 이동",
+    "openMenu": "메뉴 열기",
+    "paletteSelector": "색상 팔레트 선택",
+    "paletteSelectorWithCurrent": "색상 팔레트 선택: {{palette}}",
+    "brandHome": "Editora Argus Kepheus — 홈페이지",
+    "footerNavigation": "바닥글 탐색"
+  },
+  "buttons": {
+    "backToTop": "맨 위로"
+  },
+  "palettes": {
+    "system": "시스템",
+    "editora": "Editora",
+    "editoraDark": "Editora 다크",
+    "classic": "클래식",
+    "alternative": "대체",
+    "editorial": "에디토리얼",
+    "blueprint": "블루프린트",
+    "classicDark": "클래식 다크",
+    "alternativeDark": "대체 다크",
+    "editorialDark": "에디토리얼 다크",
+    "blueprintDark": "블루프린트 다크"
+  },
+  "areas": {
+    "tech": {
+      "title": "기술과 공학",
+      "description": "전기공학, 계측, 자동화, 제어, 컴퓨팅, 응용물리."
+    },
+    "root": {
+      "title": "정밀과학의 기초",
+      "description": "다른 분야의 공통 기반인 수학과 물리학."
+    },
+    "socl": {
+      "title": "언어와 인문학",
+      "description": "포르투갈어, 언어학, 학술 연구 방법론."
+    },
+    "theo": {
+      "title": "신학과 성서 연구",
+      "description": "성서 본문과 신학 전통 연구."
+    },
+    "natr": {
+      "title": "자연과학",
+      "description": "자연에 관한 과학. 계획 중인 분야입니다."
+    }
+  }
+}

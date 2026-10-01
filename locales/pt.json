@@ -17,6 +17,7 @@
   "nav": {
     "home": "Início",
     "catalogo": "Catálogo",
+    "projetos": "Projetos",
     "sobre": "Sobre",
     "contato": "Contato"
   },
@@ -53,7 +54,7 @@
     "description": "Editora Argus Kepheus: apresentação, catálogo e contato.",
     "upcoming": {
       "kicker": "Em preparação",
-      "title": "Próximos títulos",
+      "title": "Próximo título",
       "cta": "Ver catálogo completo"
     }
   },
@@ -100,165 +101,20 @@
         "nextEdition": "2ª edição em preparação"
       },
       {
-        "id": "tech-0025",
-        "area": "tech",
-        "status": "development",
-        "placeholder": true,
-        "title": "Instalações Elétricas Práticas",
-        "subtitle": "Fundamentos, iluminação, quadros, comandos, instrumentação e ferramentas",
-        "authors": "Sergio Cordero Calvimontes",
-        "forecast": "2026",
-        "format": "Digital",
-        "subjects": "Engenharia Elétrica · Eletrotécnica Aplicada",
-        "abstract": "Guia prático de instalações elétricas de baixa tensão, cobrindo desde os fundamentos de interruptores, tomadas e campainhas até o dimensionamento de quadros de distribuição, o acionamento de motores trifásicos por contatores, a instrumentação com multímetros e o uso correto de ferramentas e EPIs. Orientado ao técnico em formação e ao profissional que atua em instalações residenciais e comerciais."
-      },
-      {
-        "id": "tech-0002",
-        "area": "tech",
-        "status": "development",
-        "placeholder": true,
-        "title": "Fontes de energia",
-        "subtitle": "Termodinâmica, conversão e tecnologias de energia",
-        "series": "Compêndio técnico para formação profissional",
-        "authors": "Sergio Cordero Calvimontes",
-        "forecast": "2027",
-        "format": "Digital",
-        "subjects": "Termodinâmica · Engenharia de Energia · Tecnologia · Fontes de Energia",
-        "abstract": "“Fontes de Energia: Termodinâmica, Conversão e Tecnologias de Energia” é um livro técnico de nível superior que desenvolve, de forma cumulativa, os fundamentos físicos e termodinâmicos necessários para analisar sistemas de energia e os aplica a tecnologias reais de geração, conversão e armazenamento. A Parte I estabelece a evolução histórica do conceito de energia, as formas de energia, trabalho…"
-      },
-      {
         "id": "tech-0020",
         "area": "tech",
         "status": "development",
-        "placeholder": true,
         "title": "Gateways",
-        "subtitle": "Coleta, Processamento e Transmissão de Dados",
+        "subtitle": "Coleta, processamento e transmissão de dados",
         "series": "Compêndio técnico para formação profissional",
         "authors": "Sergio Cordero Calvimontes",
-        "forecast": "2027",
-        "format": "Digital",
         "subjects": "Automação Industrial · Edge Computing · Internet das Coisas (IoT) · Redes de Comunicação",
-        "abstract": "“Gateways: Coleta, Processamento e Transmissão de Dados” oferece uma visão abrangente sobre o elo central das redes de automação modernas. A obra explora, de forma prática e detalhada, desde a arquitetura de hardware até a integração de protocolos industriais fundamentais, como Modbus, MQTT e OPC UA. O objetivo é capacitar engenheiros de automação, desenvolvedores de IoT e arquitetos de sistemas…"
-      },
-      {
-        "id": "tech-0015",
-        "area": "tech",
-        "status": "development",
-        "placeholder": true,
-        "title": "Instrumentação Industrial",
-        "subtitle": "Medição, sensores, transmissores e engenharia de instrumentos de processo",
-        "series": "Compêndio de Instrumentação Industrial",
-        "authors": "Sergio Cordero Calvimontes",
-        "forecast": "2027",
-        "format": "Digital",
-        "subjects": "Instrumentação industrial · Metrologia · Sensores · Medição de processos",
-        "abstract": "Compêndio especializado em ciência da medição, instrumentos de campo e engenharia do ciclo de vida da instrumentação industrial."
-      },
-      {
-        "id": "tech-0012",
-        "area": "tech",
-        "status": "development",
-        "placeholder": true,
-        "title": "Engenharia Elétrica Aplicada",
-        "subtitle": "Máquinas elétricas, instalações, fundamentos e aplicações",
-        "authors": "Sergio Cordero Calvimontes",
-        "forecast": "2028",
-        "format": "Digital",
-        "subjects": "Engenharia Elétrica · Máquinas Elétricas · Instalações Elétricas",
-        "abstract": "Máquinas elétricas e instalações sob uma perspectiva aplicada: transformadores, motores e geradores, técnicas de acionamento e os fundamentos necessários para projetá-los e operá-los com segurança."
-      },
-      {
-        "id": "tech-0004",
-        "area": "tech",
-        "status": "development",
-        "placeholder": true,
-        "title": "Teoria de Controle",
-        "subtitle": "Fundamentos, controle clássico e moderno, implementação digital e servomecanismos",
-        "authors": "Sergio Cordero Calvimontes",
-        "forecast": "2028",
-        "format": "Digital",
-        "subjects": "Engenharia de Controle · Teoria de Sistemas",
-        "abstract": "Introdução progressiva à teoria de controle: modelagem de sistemas dinâmicos, estabilidade, controladores PID e compensadores, métodos no domínio da frequência, espaço de estados e implementação digital de controladores."
-      },
-      {
-        "id": "tech-0018",
-        "area": "tech",
-        "status": "development",
-        "placeholder": true,
-        "title": "Mecânica Quântica",
-        "subtitle": "Da velha teoria quântica à equação de Schrödinger",
-        "authors": "Sergio Cordero Calvimontes",
-        "forecast": "2028",
-        "format": "Digital",
-        "subjects": "Física · Mecânica Quântica",
-        "abstract": "Introdução à mecânica quântica não relativística a partir de sua base histórica e experimental: hipótese de Planck, efeito fotoelétrico, modelo de Bohr e seus limites; dualidade onda–partícula, ondas de de Broglie, difração de elétrons, pacotes de onda e princípio da incerteza; formulação da equação de Schrödinger, interpretação probabilística, operadores e valores esperados; aplicações à…"
-      },
-      {
-        "id": "tech-0019",
-        "area": "tech",
-        "status": "development",
-        "placeholder": true,
-        "title": "Relatividade Especial",
-        "subtitle": "Espaço-tempo, transformações de Lorentz, quadrivetores e dinâmica relativística",
-        "authors": "Sergio Cordero Calvimontes",
-        "forecast": "2028",
-        "format": "Digital",
-        "subjects": "Física · Relatividade Especial",
-        "abstract": "Introdução estruturada à relatividade especial, desde referenciais inerciais e transformações de Lorentz até geometria do espaço-tempo, simultaneidade, tempo próprio, quadrivetores, efeito Doppler, energia-momento e conservação relativística em colisões e decaimentos."
-      },
-      {
-        "id": "root-0001",
-        "area": "root",
-        "status": "development",
-        "placeholder": true,
-        "title": "Fundamentos Matemáticos",
-        "subtitle": "Álgebra Booleana, Aritmética Computacional e Transformadas",
-        "series": "Fundamentos matemáticos aplicados",
-        "authors": "Sergio Cordero Calvimontes",
-        "forecast": "2027",
-        "format": "Digital",
-        "subjects": "Matemática · Álgebra Booleana · Aritmética Computacional · Transformadas Integrais",
-        "abstract": "“Fundamentos Matemáticos: Álgebra Booleana, Aritmética Computacional e Transformadas” reúne, em três partes, os alicerces matemáticos que sustentam a computação digital e o processamento de sinais: a álgebra de Boole e suas leis axiomáticas, a aritmética computacional (representação binária, operações fundamentais, ponto flutuante e o padrão IEEE 754), e as transformadas integrais (Fourier…"
-      },
-      {
-        "id": "socl-0001",
-        "area": "socl",
-        "status": "development",
-        "placeholder": true,
-        "title": "Português para Concursos Públicos",
-        "subtitle": "Teoria, estrutura e aplicação prática",
-        "series": "Compêndio para preparação de concursos públicos",
-        "authors": "Sergio Cordero Calvimontes",
-        "forecast": "2027",
-        "format": "Digital",
-        "subjects": "Língua Portuguesa · Concursos Públicos · Gramática · Interpretação de Texto",
-        "abstract": "“Português para Concursos Públicos: Teoria, Estrutura e Aplicação Prática” reúne, em vinte e três capítulos organizados em quatro partes, a gramática normativa e a interpretação textual exigidas em provas de concursos públicos brasileiros. A obra percorre a leitura e a compreensão de textos, os modos de organização do discurso e os gêneros textuais, avança pela coesão, coerência e morfologia das…"
-      },
-      {
-        "id": "socl-0003",
-        "area": "socl",
-        "status": "development",
-        "placeholder": true,
-        "title": "Metodologia e Carreira Acadêmica",
-        "subtitle": "Guia prático para a vida acadêmica e científica",
-        "series": "Série de Metodologia Científica",
-        "authors": "Sergio Cordero Calvimontes",
-        "forecast": "2027",
-        "format": "Digital",
-        "subjects": "Metodologia · Carreira Acadêmica · Pós-Graduação",
-        "abstract": "Um guia completo abordando os principais aspectos da vida e carreira acadêmica, desde a elaboração de projetos e publicações científicas até os estágios de docência e defesas de dissertação."
-      },
-      {
-        "id": "theo-0001",
-        "area": "theo",
-        "status": "development",
-        "placeholder": true,
-        "title": "Clamor pelo sangue de Jesus no Novo Testamento",
-        "subtitle": "Análise contextual e levantamento hermenêutico",
-        "authors": "Sergio Cordero Calvimontes",
-        "forecast": "2028",
-        "format": "Digital",
-        "abstract": "Descrição em elaboração."
+        "note": "Obra multilíngue: cada idioma será uma edição independente, com ISBN próprio. A primeira edição, em português, está em preparação.",
+        "abstract": "«Gateways: Coleta, processamento e transmissão de dados» oferece uma visão abrangente sobre o elo central das redes de automação modernas. A obra explora, de forma prática e detalhada, desde a arquitetura de hardware até a integração de protocolos industriais fundamentais, como Modbus, MQTT e OPC UA. O objetivo é capacitar engenheiros de automação, desenvolvedores de IoT e arquitetos de sistemas a projetar, configurar e manter gateways físicos e lógicos em ambientes industriais, smart grids e telemetria clínica, incorporando estratégias de convergência, segurança e orquestração de edge computing.",
+        "cover": "images/catalogo/gateways-1ed-capa.webp",
+        "coverAlt": "Capa do livro Gateways: coleta, processamento e transmissão de dados, de Sergio Cordero Calvimontes",
+        "backCover": "images/catalogo/gateways-1ed-contracapa.webp",
+        "backCoverAlt": "Contracapa do livro Gateways, com o resumo da obra e os tópicos principais"
       }
     ],
     "labels": {
@@ -289,6 +145,16 @@
     "details": "Mais detalhes",
     "noResults": "Nenhum título nesta área por enquanto."
   },
+  "projetos": {
+    "pageTitle": "Projetos",
+    "title": "Projetos",
+    "kicker": "Em construção",
+    "intro": "Esta seção está em construção.",
+    "noticeTitle": "Em breve",
+    "noticeText": "Em breve, esta página reunirá os projetos da Editora Argus Kepheus. Enquanto isso, conheça o catálogo.",
+    "cta": "Ver catálogo",
+    "description": "Projetos da Editora Argus Kepheus (seção em construção)."
+  },
   "sobre": {
     "pageTitle": "Sobre",
     "title": "Argus Kepheus",
@@ -304,6 +170,7 @@
     "pageTitle": "Contato",
     "title": "Fale com a editora",
     "intro": "Para dúvidas, propostas editoriais, parcerias institucionais ou outros assuntos, escreva para o e-mail abaixo.",
+    "unavailable": "Os canais de contato da editora serão divulgados aqui em breve.",
     "email": "contato@arguskepheus.com.br",
     "labels": {
       "email": "E-mail"

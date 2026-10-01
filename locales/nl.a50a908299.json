@@ -1,0 +1,259 @@
+{
+  "site": {
+    "title": "Argus Kepheus — uitgeverij",
+    "description": "Editora Argus Kepheus: technische literatuur en uitgaven op veel vakgebieden.",
+    "ogTitle": "Argus Kepheus — uitgeverij",
+    "ogDescription": "Maak kennis met Editora Argus Kepheus en haar catalogus."
+  },
+  "ui": {
+    "loading": "Laden...",
+    "error": "Fout",
+    "componentLoadError": "Fout bij het laden van de component.",
+    "backToHome": "Terug naar de startpagina",
+    "retry": "Opnieuw proberen",
+    "close": "Sluiten",
+    "success": "Succes"
+  },
+  "nav": {
+    "home": "Home",
+    "catalogo": "Catalogus",
+    "projetos": "Projecten",
+    "sobre": "Over ons",
+    "contato": "Contact"
+  },
+  "home": {
+    "pageTitle": "Home",
+    "kicker": "Technische en educatieve uitgeverij",
+    "title": "Argus Kepheus",
+    "subtitle": "Technische en educatieve boeken, geordend naar kennisgebied en zorgvuldig gedocumenteerd.",
+    "intro": "Editora Argus Kepheus publiceert technische en educatieve literatuur, met een groeiende catalogus die naar kennisgebied is geordend. Onze eerste titel is al verkrijgbaar; verschillende andere zijn in ontwikkeling.",
+    "cta": {
+      "catalogo": "Bekijk de catalogus",
+      "contato": "Neem contact op"
+    },
+    "bookCaption": "Eerste gepubliceerde titel · 2026",
+    "highlights": {
+      "title": "Redactionele lijn",
+      "item1": {
+        "title": "Technische literatuur",
+        "description": "Technische en educatieve boeken, gericht op grondbeginselen, dimensionering en nauwkeurige documentatie."
+      },
+      "item2": {
+        "title": "Multidisciplinair",
+        "description": "Een catalogus geordend naar vakgebied: techniek, gemeenschappelijke grondslagen, sociale wetenschappen, theologie en natuurwetenschappen."
+      },
+      "item3": {
+        "title": "In groei",
+        "description": "Een voortdurend groeiende catalogus, met nieuwe titels in ontwikkeling."
+      }
+    },
+    "featured": {
+      "kicker": "Eerste titel",
+      "cta": "Bekijk in de catalogus"
+    },
+    "description": "Editora Argus Kepheus: presentatie, catalogus en contact.",
+    "upcoming": {
+      "kicker": "In voorbereiding",
+      "title": "Volgende titel",
+      "cta": "Bekijk de volledige catalogus"
+    }
+  },
+  "catalogo": {
+    "pageTitle": "Catalogus",
+    "title": "Catalogus",
+    "intro": "Titels die Editora Argus Kepheus heeft uitgegeven of voorbereidt, geordend naar vakgebied.",
+    "empty": "Er zijn momenteel geen titels verschenen.",
+    "description": "Catalogus van boeken uitgegeven door Editora Argus Kepheus.",
+    "items": [
+      {
+        "id": "tech-0001",
+        "area": "tech",
+        "status": "published",
+        "title": "Projeto elétrico industrial básico",
+        "subtitle": "Fundamentos, dimensionamento e documentação técnica",
+        "series": "Compêndio técnico para formação profissional",
+        "authors": "Sergio Cordero Calvimontes",
+        "publisher": "Angra dos Reis: Editora Argus Kepheus",
+        "year": "2026",
+        "edition": "1e editie",
+        "isbn": "978-65-976344-0-8",
+        "format": "Digitaal",
+        "pages": "174",
+        "language": "Portugees",
+        "subjects": "Elektrotechniek · Elektrisch ontwerp · Industriële installaties",
+        "cover": "images/catalogo/projeto-eletrico-industrial-basico-1ed.webp",
+        "coverAlt": "Omslag van het boek Projeto elétrico industrial básico van Sergio Cordero Calvimontes",
+        "abstract": "Leerboek voor de opleiding in elektrotechniek en elektronica, gericht op het ontwerpen van industriële laagspanningsinstallaties: inventarisatie en overzichten van belastingen, berekening van de vermogensbehoefte, dimensionering van geleiders en beveiligingen, eenlijnschema's en driedraadsschema's en technische documentatie. Bedoeld voor technische studenten, docenten en professionals in opleiding.",
+        "links": [
+          {
+            "label": "Zenodo",
+            "url": "https://zenodo.org/records/20804262"
+          },
+          {
+            "label": "Internet Archive",
+            "url": "https://archive.org/details/calvimontes-s.-c.-projeto-eletrico-fundamentos-dimensionamento-e-documentacao-tecnica-2026-1ed-182p"
+          },
+          {
+            "label": "Academia.edu",
+            "url": "https://www.academia.edu/169042224/Projeto_el%C3%A9trico_industrial_b%C3%A1sico"
+          }
+        ],
+        "nextEdition": "2e editie in voorbereiding"
+      },
+      {
+        "id": "tech-0020",
+        "area": "tech",
+        "status": "development",
+        "title": "Gateways",
+        "subtitle": "Coleta, processamento e transmissão de dados",
+        "series": "Compêndio técnico para formação profissional",
+        "authors": "Sergio Cordero Calvimontes",
+        "subjects": "Industriële automatisering · Edge computing · Internet of Things (IoT) · Communicatienetwerken",
+        "note": "Een meertalig werk: elke taal wordt een zelfstandige editie met een eigen ISBN. De eerste editie, in het Portugees, is in voorbereiding.",
+        "abstract": "„Gateways: Coleta, processamento e transmissão de dados” biedt een volledig overzicht van de centrale schakel in moderne automatiseringsnetwerken. Het boek behandelt praktisch en gedetailleerd alles van hardwarearchitectuur tot de integratie van fundamentele industriële protocollen zoals Modbus, MQTT en OPC UA. Het doel is automatiseringsingenieurs, IoT-ontwikkelaars en systeemarchitecten in staat te stellen fysieke en logische gateways te ontwerpen, te configureren en te onderhouden in industriële omgevingen, slimme elektriciteitsnetten en klinische telemetrie, met strategieën voor dataconvergentie, beveiliging en de orkestratie van edge computing.",
+        "cover": "images/catalogo/gateways-1ed-capa.webp",
+        "coverAlt": "Omslag van het boek Gateways: coleta, processamento e transmissão de dados van Sergio Cordero Calvimontes",
+        "backCover": "images/catalogo/gateways-1ed-contracapa.webp",
+        "backCoverAlt": "Achterkant van het boek Gateways, met de samenvatting en de belangrijkste onderwerpen"
+      }
+    ],
+    "labels": {
+      "author": "Auteur",
+      "edition": "Editie",
+      "year": "Jaar",
+      "isbn": "ISBN",
+      "format": "Formaat",
+      "pages": "Pagina's",
+      "language": "Taal",
+      "subjects": "Onderwerpen",
+      "links": "Verkrijgbaar via",
+      "forecast": "Verwacht",
+      "area": "Vakgebied",
+      "nextEdition": "Volgende editie"
+    },
+    "filterLabel": "Filteren op vakgebied",
+    "allAreas": "Alle vakgebieden",
+    "sections": {
+      "published": "Verschenen",
+      "development": "In voorbereiding"
+    },
+    "status": {
+      "published": "Verschenen",
+      "development": "In voorbereiding"
+    },
+    "placeholderNote": "Voorvertoning: voorlopige gegevens, onder voorbehoud van wijzigingen.",
+    "details": "Meer details",
+    "noResults": "Nog geen titels in dit vakgebied."
+  },
+  "projetos": {
+    "pageTitle": "Projecten",
+    "title": "Projecten",
+    "kicker": "In aanbouw",
+    "intro": "Dit onderdeel is in aanbouw.",
+    "noticeTitle": "Binnenkort",
+    "noticeText": "Binnenkort brengt deze pagina de projecten van Editora Argus Kepheus samen. Bekijk in de tussentijd de catalogus.",
+    "cta": "Bekijk de catalogus",
+    "description": "Projecten van Editora Argus Kepheus (onderdeel in aanbouw)."
+  },
+  "sobre": {
+    "pageTitle": "Over ons",
+    "title": "Argus Kepheus",
+    "intro": "Argus Kepheus is een uitgeverij die zich wijdt aan technische en educatieve literatuur. De catalogus is geordend in vijf vakgebieden, van de technische nauwkeurigheid van de ingenieurswetenschappen tot de studie van taal en theologie.",
+    "description": "Over Editora Argus Kepheus en haar redactionele vakgebieden.",
+    "kicker": "Over de uitgeverij",
+    "areasTitle": "Redactionele vakgebieden",
+    "areaCount": "{{count}} titels",
+    "areaCountOne": "1 titel",
+    "areaCountNone": "Binnenkort"
+  },
+  "contato": {
+    "pageTitle": "Contact",
+    "title": "Neem contact op met de uitgeverij",
+    "intro": "Voor vragen, uitgeefvoorstellen, institutionele samenwerkingen of andere zaken kunt u schrijven naar het onderstaande e-mailadres.",
+    "unavailable": "De contactmogelijkheden van de uitgeverij worden hier binnenkort bekendgemaakt.",
+    "email": "contato@arguskepheus.com.br",
+    "labels": {
+      "email": "E-mail"
+    },
+    "description": "Institutioneel contact van Editora Argus Kepheus.",
+    "kicker": "Contact"
+  },
+  "footer": {
+    "tagline": "Technische en educatieve literatuur.",
+    "copyright": "© 2026 Editora Argus Kepheus — Alle rechten voorbehouden.",
+    "location": "Angra dos Reis, RJ, Brazilië."
+  },
+  "error": {
+    "pageTitle": "Fout",
+    "notFound": {
+      "title": "Pagina niet gevonden",
+      "message": "De pagina die u zoekt, bestaat niet of is verplaatst.",
+      "backButton": "Terug naar de startpagina"
+    },
+    "generic": {
+      "title": "Er is een fout opgetreden",
+      "message": "Sorry, er is een fout opgetreden bij het laden van de inhoud. Probeer het opnieuw.",
+      "backButton": "Terug naar de startpagina"
+    },
+    "connection": {
+      "title": "Verbindingsfout",
+      "message": "Er kon geen verbinding met de server worden gemaakt. Controleer uw internetverbinding.",
+      "retryButton": "Opnieuw proberen"
+    },
+    "appInitFailed": "Fout bij het initialiseren van de applicatie. Laad de pagina opnieuw.",
+    "langChangeFailed": "Fout bij het wijzigen van de taal. Probeer het opnieuw.",
+    "pageLoadFailed": "Fout bij het laden van de pagina. Probeer het opnieuw.",
+    "description": "Foutpagina die wordt weergegeven wanneer de inhoud niet kan worden geladen of de opgevraagde route niet beschikbaar is."
+  },
+  "aria": {
+    "languageSelector": "Taal selecteren",
+    "menuToggle": "Navigatiemenu in-/uitschakelen",
+    "closeMenu": "Menu sluiten",
+    "navigation": "Hoofdnavigatie",
+    "skipToContent": "Naar de inhoud springen",
+    "backToTop": "Terug naar de bovenkant van de pagina",
+    "openMenu": "Menu openen",
+    "paletteSelector": "Kleurenpalet selecteren",
+    "paletteSelectorWithCurrent": "Kleurenpalet selecteren: {{palette}}",
+    "brandHome": "Editora Argus Kepheus — startpagina",
+    "footerNavigation": "Navigatie in de voettekst"
+  },
+  "buttons": {
+    "backToTop": "Terug naar boven"
+  },
+  "palettes": {
+    "system": "Systeem",
+    "editora": "Editora",
+    "editoraDark": "Editora donker",
+    "classic": "Klassiek",
+    "alternative": "Alternatief",
+    "editorial": "Redactioneel",
+    "blueprint": "Blueprint",
+    "classicDark": "Klassiek donker",
+    "alternativeDark": "Alternatief donker",
+    "editorialDark": "Redactioneel donker",
+    "blueprintDark": "Blueprint donker"
+  },
+  "areas": {
+    "tech": {
+      "title": "Techniek en ingenieurswetenschappen",
+      "description": "Elektrotechniek, instrumentatie, automatisering, regeltechniek, informatica en toegepaste natuurkunde."
+    },
+    "root": {
+      "title": "Grondslagen van de exacte wetenschappen",
+      "description": "Wiskunde en natuurkunde als gemeenschappelijke basis voor de andere vakgebieden."
+    },
+    "socl": {
+      "title": "Taal en geesteswetenschappen",
+      "description": "Portugese taal, taalkunde en academische methodologie."
+    },
+    "theo": {
+      "title": "Theologie en bijbelstudies",
+      "description": "Studie van de bijbeltekst en de theologische traditie."
+    },
+    "natr": {
+      "title": "Natuurwetenschappen",
+      "description": "Wetenschappen van de natuur. Vakgebied in voorbereiding."
+    }
+  }
+}

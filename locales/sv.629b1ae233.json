@@ -1,0 +1,259 @@
+{
+  "site": {
+    "title": "Argus Kepheus — förlag",
+    "description": "Editora Argus Kepheus: teknisk litteratur och utgivning inom många områden.",
+    "ogTitle": "Argus Kepheus — förlag",
+    "ogDescription": "Upptäck Editora Argus Kepheus och dess katalog."
+  },
+  "ui": {
+    "loading": "Laddar...",
+    "error": "Fel",
+    "componentLoadError": "Fel vid inläsning av komponent.",
+    "backToHome": "Tillbaka till startsidan",
+    "retry": "Försök igen",
+    "close": "Stäng",
+    "success": "Lyckades"
+  },
+  "nav": {
+    "home": "Start",
+    "catalogo": "Katalog",
+    "projetos": "Projekt",
+    "sobre": "Om oss",
+    "contato": "Kontakt"
+  },
+  "home": {
+    "pageTitle": "Start",
+    "kicker": "Tekniskt och pedagogiskt förlag",
+    "title": "Argus Kepheus",
+    "subtitle": "Tekniska och pedagogiska böcker, ordnade efter kunskapsområde och noggrant dokumenterade.",
+    "intro": "Editora Argus Kepheus ger ut teknisk och pedagogisk litteratur, med en växande katalog ordnad efter kunskapsområde. Vår första titel finns redan tillgänglig, och flera andra är under utveckling.",
+    "cta": {
+      "catalogo": "Se katalogen",
+      "contato": "Kontakta oss"
+    },
+    "bookCaption": "Första utgivna titeln · 2026",
+    "highlights": {
+      "title": "Utgivningsinriktning",
+      "item1": {
+        "title": "Teknisk litteratur",
+        "description": "Tekniska och pedagogiska böcker med fokus på grunder, dimensionering och noggrann dokumentation."
+      },
+      "item2": {
+        "title": "Flera ämnesområden",
+        "description": "En katalog ordnad efter område: teknik, gemensamma grunder, samhällsvetenskap, teologi och naturvetenskap."
+      },
+      "item3": {
+        "title": "Växande",
+        "description": "En katalog som ständigt växer, med nya titlar under utveckling."
+      }
+    },
+    "featured": {
+      "kicker": "Första titeln",
+      "cta": "Se i katalogen"
+    },
+    "description": "Editora Argus Kepheus: presentation, katalog och kontakt.",
+    "upcoming": {
+      "kicker": "Under arbete",
+      "title": "Nästa titel",
+      "cta": "Se hela katalogen"
+    }
+  },
+  "catalogo": {
+    "pageTitle": "Katalog",
+    "title": "Katalog",
+    "intro": "Titlar som Editora Argus Kepheus har gett ut eller förbereder, ordnade efter område.",
+    "empty": "Inga titlar är utgivna för närvarande.",
+    "description": "Katalog över böcker utgivna av Editora Argus Kepheus.",
+    "items": [
+      {
+        "id": "tech-0001",
+        "area": "tech",
+        "status": "published",
+        "title": "Projeto elétrico industrial básico",
+        "subtitle": "Fundamentos, dimensionamento e documentação técnica",
+        "series": "Compêndio técnico para formação profissional",
+        "authors": "Sergio Cordero Calvimontes",
+        "publisher": "Angra dos Reis: Editora Argus Kepheus",
+        "year": "2026",
+        "edition": "1:a upplagan",
+        "isbn": "978-65-976344-0-8",
+        "format": "Digital",
+        "pages": "174",
+        "language": "Portugisiska",
+        "subjects": "Elektroteknik · Elprojektering · Industriella installationer",
+        "cover": "images/catalogo/projeto-eletrico-industrial-basico-1ed.webp",
+        "coverAlt": "Omslaget till boken Projeto elétrico industrial básico av Sergio Cordero Calvimontes",
+        "abstract": "Läromedel för utbildning inom el och elektronik, med fokus på projektering av industriella lågspänningsinstallationer: inventering och sammanställning av laster, effektbehovsberäkning, dimensionering av ledare och skyddsanordningar, enlinjeschema och trelinjeschema samt teknisk dokumentation. Avsedd för teknikstuderande, lärare och yrkesverksamma under utbildning.",
+        "links": [
+          {
+            "label": "Zenodo",
+            "url": "https://zenodo.org/records/20804262"
+          },
+          {
+            "label": "Internet Archive",
+            "url": "https://archive.org/details/calvimontes-s.-c.-projeto-eletrico-fundamentos-dimensionamento-e-documentacao-tecnica-2026-1ed-182p"
+          },
+          {
+            "label": "Academia.edu",
+            "url": "https://www.academia.edu/169042224/Projeto_el%C3%A9trico_industrial_b%C3%A1sico"
+          }
+        ],
+        "nextEdition": "2:a upplagan under arbete"
+      },
+      {
+        "id": "tech-0020",
+        "area": "tech",
+        "status": "development",
+        "title": "Gateways",
+        "subtitle": "Coleta, processamento e transmissão de dados",
+        "series": "Compêndio técnico para formação profissional",
+        "authors": "Sergio Cordero Calvimontes",
+        "subjects": "Industriell automation · Edge computing · Sakernas internet (IoT) · Kommunikationsnät",
+        "note": "Ett flerspråkigt verk: varje språk blir en självständig upplaga med eget ISBN. Den första upplagan, på portugisiska, är under arbete.",
+        "abstract": "”Gateways: Coleta, processamento e transmissão de dados” ger en heltäckande bild av den centrala länken i moderna automationsnät. Boken går praktiskt och ingående igenom allt från hårdvaruarkitektur till integrationen av grundläggande industriella protokoll som Modbus, MQTT och OPC UA. Målet är att ge automationsingenjörer, IoT-utvecklare och systemarkitekter förmågan att utforma, konfigurera och underhålla fysiska och logiska gateways i industrimiljöer, smarta elnät och klinisk telemetri, med strategier för datakonvergens, säkerhet och orkestrering av edge computing.",
+        "cover": "images/catalogo/gateways-1ed-capa.webp",
+        "coverAlt": "Omslaget till boken Gateways: coleta, processamento e transmissão de dados av Sergio Cordero Calvimontes",
+        "backCover": "images/catalogo/gateways-1ed-contracapa.webp",
+        "backCoverAlt": "Baksidan av boken Gateways, med sammanfattning och huvudämnen"
+      }
+    ],
+    "labels": {
+      "author": "Författare",
+      "edition": "Upplaga",
+      "year": "År",
+      "isbn": "ISBN",
+      "format": "Format",
+      "pages": "Sidor",
+      "language": "Språk",
+      "subjects": "Ämnen",
+      "links": "Finns hos",
+      "forecast": "Beräknad",
+      "area": "Område",
+      "nextEdition": "Nästa upplaga"
+    },
+    "filterLabel": "Filtrera efter område",
+    "allAreas": "Alla områden",
+    "sections": {
+      "published": "Utgivna",
+      "development": "Under arbete"
+    },
+    "status": {
+      "published": "Utgiven",
+      "development": "Under arbete"
+    },
+    "placeholderNote": "Förhandsvisning: preliminära uppgifter som kan ändras.",
+    "details": "Mer information",
+    "noResults": "Inga titlar inom detta område ännu."
+  },
+  "projetos": {
+    "pageTitle": "Projekt",
+    "title": "Projekt",
+    "kicker": "Under uppbyggnad",
+    "intro": "Den här delen är under uppbyggnad.",
+    "noticeTitle": "Kommer snart",
+    "noticeText": "Snart samlar den här sidan Editora Argus Kepheus projekt. Under tiden kan du utforska katalogen.",
+    "cta": "Se katalogen",
+    "description": "Editora Argus Kepheus projekt (avsnitt under uppbyggnad)."
+  },
+  "sobre": {
+    "pageTitle": "Om oss",
+    "title": "Argus Kepheus",
+    "intro": "Argus Kepheus är ett förlag som ägnar sig åt teknisk och pedagogisk litteratur. Katalogen är ordnad i fem områden, från ingenjörskonstens tekniska stringens till studier av språk och teologi.",
+    "description": "Om Editora Argus Kepheus och dess utgivningsområden.",
+    "kicker": "Om förlaget",
+    "areasTitle": "Utgivningsområden",
+    "areaCount": "{{count}} titlar",
+    "areaCountOne": "1 titel",
+    "areaCountNone": "Kommer snart"
+  },
+  "contato": {
+    "pageTitle": "Kontakt",
+    "title": "Kontakta förlaget",
+    "intro": "För frågor, utgivningsförslag, institutionella samarbeten eller andra ärenden, skriv till e-postadressen nedan.",
+    "unavailable": "Förlagets kontaktvägar kommer snart att publiceras här.",
+    "email": "contato@arguskepheus.com.br",
+    "labels": {
+      "email": "E-post"
+    },
+    "description": "Institutionell kontakt för Editora Argus Kepheus.",
+    "kicker": "Kontakt"
+  },
+  "footer": {
+    "tagline": "Teknisk och pedagogisk litteratur.",
+    "copyright": "© 2026 Editora Argus Kepheus — Alla rättigheter förbehållna.",
+    "location": "Angra dos Reis, RJ, Brasilien."
+  },
+  "error": {
+    "pageTitle": "Fel",
+    "notFound": {
+      "title": "Sidan hittades inte",
+      "message": "Sidan du letar efter finns inte eller har flyttats.",
+      "backButton": "Tillbaka till startsidan"
+    },
+    "generic": {
+      "title": "Ett fel har inträffat",
+      "message": "Tyvärr uppstod ett fel vid inläsning av innehållet. Försök igen.",
+      "backButton": "Tillbaka till startsidan"
+    },
+    "connection": {
+      "title": "Anslutningsfel",
+      "message": "Det gick inte att ansluta till servern. Kontrollera din internetanslutning.",
+      "retryButton": "Försök igen"
+    },
+    "appInitFailed": "Fel vid start av applikationen. Ladda om sidan.",
+    "langChangeFailed": "Fel vid byte av språk. Försök igen.",
+    "pageLoadFailed": "Fel vid inläsning av sidan. Försök igen.",
+    "description": "Felsida som visas när innehållet inte kan laddas eller den begärda rutten inte är tillgänglig."
+  },
+  "aria": {
+    "languageSelector": "Välj språk",
+    "menuToggle": "Växla navigeringsmeny",
+    "closeMenu": "Stäng meny",
+    "navigation": "Huvudnavigering",
+    "skipToContent": "Hoppa till innehållet",
+    "backToTop": "Tillbaka till sidans topp",
+    "openMenu": "Öppna meny",
+    "paletteSelector": "Välj färgpalett",
+    "paletteSelectorWithCurrent": "Välj färgpalett: {{palette}}",
+    "brandHome": "Editora Argus Kepheus — startsida",
+    "footerNavigation": "Sidfotsnavigering"
+  },
+  "buttons": {
+    "backToTop": "Tillbaka till toppen"
+  },
+  "palettes": {
+    "system": "System",
+    "editora": "Editora",
+    "editoraDark": "Editora mörk",
+    "classic": "Klassisk",
+    "alternative": "Alternativ",
+    "editorial": "Redaktionell",
+    "blueprint": "Blueprint",
+    "classicDark": "Klassisk mörk",
+    "alternativeDark": "Alternativ mörk",
+    "editorialDark": "Redaktionell mörk",
+    "blueprintDark": "Blueprint mörk"
+  },
+  "areas": {
+    "tech": {
+      "title": "Teknik och ingenjörsvetenskap",
+      "description": "Elektroteknik, instrumentering, automation, reglerteknik, datavetenskap och tillämpad fysik."
+    },
+    "root": {
+      "title": "Grunderna i de exakta vetenskaperna",
+      "description": "Matematik och fysik som gemensam grund för de övriga områdena."
+    },
+    "socl": {
+      "title": "Språk och humaniora",
+      "description": "Portugisiska språket, lingvistik och akademisk metod."
+    },
+    "theo": {
+      "title": "Teologi och bibelstudier",
+      "description": "Studier av bibeltexten och den teologiska traditionen."
+    },
+    "natr": {
+      "title": "Naturvetenskap",
+      "description": "Vetenskaper om naturen. Område under planering."
+    }
+  }
+}
